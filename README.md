@@ -2,7 +2,8 @@
 #### Test Automation Engineer
 
 
-
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=paphananSa&show_icons=true&theme=codeSTACKr" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paphananSa&layout=compact&theme=codeSTACKr" />
 
 
 
